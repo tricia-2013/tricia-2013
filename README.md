@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tricia-2013.
+- 👀 I’m interested in coding and teaching.
+- 🌱 I’m currently learning to code, from scratch. 
